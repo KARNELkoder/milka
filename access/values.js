@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "05.06.2004"; // Дата рождения
-var fullname = "Гричковский Владислав Владимирович" // ФИО
+var birthdate = "02.05.2004"; // Дата рождения
+var fullname = "Иванов Милан Николаевич" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
