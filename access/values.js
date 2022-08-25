@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "02.05.2004"; // Дата рождения
-var fullname = "Иванов Милан Николаевич" // ФИО
+var fullname = "Іванов Мілан Миколайович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
